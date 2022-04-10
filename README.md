@@ -45,7 +45,6 @@ Used: Python libraries
 * NLTK (Natural Language Toolkit) 
 * TextBlob (for Sentiment Analysis) 
 * MatPlotlib & Seaborn & WordCloud (for Data Visualization)
-* Seaborn
 
 Preprocessing:
 * Remove Punctuation
