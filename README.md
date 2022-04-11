@@ -86,7 +86,7 @@ Final Model: (DecisionTreeClassifier)
 
 <img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/final.JPG" width="500" height="400" />
 
-It is not great but I had to downsize my data to 10K tweet. Because my RAM is not enough for CountVectorizer..
+
 
 <img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/final1.JPG" width="200" height="100" />
 
