@@ -54,4 +54,5 @@ Preprocessing:
 * Stemming
 
 
-# Second Notebook: ...
+# Second Notebook: Bridgerton_Tweet_NLP_Classification.ipynb
+...
