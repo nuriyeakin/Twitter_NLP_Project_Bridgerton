@@ -35,6 +35,7 @@ Most Common Words on the tweets:
 Sentiment Analysis:
 
 <img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/Sentiment_pie.JPG" width="500" height="300" />
+
 <img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/sentiment_table.JPG" width="400" height="200" />
 
 ## On the second approach:
@@ -55,4 +56,37 @@ Preprocessing:
 
 
 # Second Notebook: Bridgerton_Tweet_NLP_Classification.ipynb
-...
+
+- Sentiment Analysis
+- Wordcloud
+Most Popular words for all tweets:
+
+<img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/wc.png" width="700" height="500" />
+
+Most Popular Words for negative tweets (According to my sentiment analysis)
+<img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/wc_negative.png" width="700" height="500" />
+
+Most Popular Words for positive tweets (According to my sentiment analysis)
+<img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/wc_positive.png" width="700" height="500" />
+
+## NLP Supervised Learning
+Methods:
+* CountVectorizer
+* Ngram
+* Logistic Regression
+* Naive Bayes
+* KNN
+* TF-IDF
+
+Results:
+
+<img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/Results.JPG" width="600" height="500" />
+
+Final Model: (DecisionTreeClassifier)
+
+<img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/final.JPG" width="500" height="400" />
+
+It is not great but I had to downsize my data to 10K tweet. Because my RAM is not enough for CountVectorizer..
+
+<img src="https://github.com/nuriyeakin/Twitter_NLP_Project_Bridgerton/blob/main/images/final1.JPG" width="200" height="100" />
+
